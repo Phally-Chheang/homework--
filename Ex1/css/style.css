@@ -1,0 +1,32 @@
+div{
+    margin: 20px;
+    padding: 20px;
+    background-color: pink;
+    border-bottom: 20px solid purple;
+    border-top: 20px solid purple ;
+    border-radius: 20px;
+}
+#green{
+    background-color: green;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+    color: #fff;
+    border: dashed yellow 5px;
+}
+#red{
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    width: 50%;
+    text-align: center;
+    color: #fff;
+    border-right: solid 20px yellow;
+}
+#blue{
+    background-color: blue;
+    padding:20px ;
+    border: dotted 10px black;
+    text-align: center;
+    color: #fff;
+}

@@ -1,0 +1,13 @@
+*{
+    margin-top: 40px;
+    margin-left: 50px;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 20px;
+}
+.pink{
+    color: rgb(235, 72, 99);
+}
+.blue{
+    color: blue;
+}
